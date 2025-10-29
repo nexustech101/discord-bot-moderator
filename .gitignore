@@ -13,6 +13,8 @@ ENV/
 logs/
 *.log
 
+prompt.md
+
 # Google Credentials
 credentials.json
 token.json
